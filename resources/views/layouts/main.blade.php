@@ -22,7 +22,7 @@
     <main>
 
         @yield('page-content')
-        
+
     </main>
 
     @include('partials.footer')
