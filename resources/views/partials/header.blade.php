@@ -11,42 +11,42 @@
 
     <div class="container-fluid">
         <div class="container">
-            <div class="row flex-nowrap py-3">
+            <div class="row align-items-center flex-nowrap py-2">
                 <div class="col">
-                    <img src="../../img/dc-logo.png" alt="">
+                    <img class="img-fluid" src="{{ Vite::asset("resources/img/dc-logo.png") }}" alt="Logo DC Header">
                 </div>
-                <div class="col">
-                    <a href="#">Link</a>
+                <div class="col text-center">
+                    <a href="#">CHARACTERS</a>
                 </div>
-                <div class="col">
-                    <a href="#">Link</a>
+                <div class="col text-center">
+                    <a href="#">COMICS</a>
                 </div>
-                <div class="col">
-                    <a href="#">Link</a>
+                <div class="col text-center">
+                    <a href="#">MOVIES</a>
                 </div>
-                <div class="col">
-                    <a href="#">Link</a>
+                <div class="col text-center">
+                    <a href="#">TV</a>
                 </div>
-                <div class="col">
-                    <a href="#">Link</a>
+                <div class="col text-center">
+                    <a href="#">GAMES</a>
                 </div>
-                <div class="col">
-                    <a href="#">Link</a>
+                <div class="col text-center">
+                    <a href="#">COLLECTIBLES</a>
                 </div>
-                <div class="col">
-                    <a href="#">Link</a>
+                <div class="col text-center">
+                    <a href="#">VIDEOS</a>
                 </div>
-                <div class="col">
-                    <a href="#">Link</a>
+                <div class="col text-center">
+                    <a href="#">FANS</a>
                 </div>
-                <div class="col">
-                    <a href="#">Link</a>
+                <div class="col text-center">
+                    <a href="#">NEWS</a>
                 </div>
-                <div class="col">
-                    <a href="#">Link</a>
+                <div class="col text-center">
+                    <a href="#">SHOP</a>
                 </div>
-                <div class="col">
-                    <a href="#">Link</a>
+                <div class="col text-center">
+                    <input class="ms-seacrh" type="search">
                 </div>
             </div>
         </div>
