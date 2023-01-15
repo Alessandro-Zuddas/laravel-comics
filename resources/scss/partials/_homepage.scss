@@ -5,8 +5,17 @@
 }
 
 .ms-products{
+    position: relative;
     width: 100%;
     background-color: #1c1c1c;
+}
+
+.ms-current-series{
+    position: absolute;
+    top: -30%;
+    color: white;
+    background-color: #0282f9;
+    padding: .3125rem .625rem;
 }
 
 .ms-bonus{

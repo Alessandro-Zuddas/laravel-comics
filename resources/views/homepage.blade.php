@@ -16,7 +16,15 @@
 
     <section class="ms-products py-4">
 
-        {{-- Da implementare --}}
+        <div class="container">
+            <h5 class="ms-current-series">CURRENT SERIES</h5>
+        </div>
+
+        <div class="container">
+
+            {{-- Da implementare --}}
+            
+        </div>
 
     </section>
 

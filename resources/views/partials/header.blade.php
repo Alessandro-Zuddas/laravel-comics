@@ -16,34 +16,34 @@
                     <img class="img-fluid" src="{{ Vite::asset("resources/img/dc-logo.png") }}" alt="Logo DC Header">
                 </div>
                 <div class="col text-center">
-                    <a href="#">CHARACTERS</a>
+                    <a class="header-link" href="#">CHARACTERS</a>
                 </div>
                 <div class="col text-center">
-                    <a href="#">COMICS</a>
+                    <a class="header-link--active" href="#">COMICS</a>
                 </div>
                 <div class="col text-center">
-                    <a href="#">MOVIES</a>
+                    <a class="header-link" href="#">MOVIES</a>
                 </div>
                 <div class="col text-center">
-                    <a href="#">TV</a>
+                    <a class="header-link" href="#">TV</a>
                 </div>
                 <div class="col text-center">
-                    <a href="#">GAMES</a>
+                    <a class="header-link" href="#">GAMES</a>
                 </div>
                 <div class="col text-center">
-                    <a href="#">COLLECTIBLES</a>
+                    <a class="header-link" href="#">COLLECTIBLES</a>
                 </div>
                 <div class="col text-center">
-                    <a href="#">VIDEOS</a>
+                    <a class="header-link" href="#">VIDEOS</a>
                 </div>
                 <div class="col text-center">
-                    <a href="#">FANS</a>
+                    <a class="header-link" href="#">FANS</a>
                 </div>
                 <div class="col text-center">
-                    <a href="#">NEWS</a>
+                    <a class="header-link" href="#">NEWS</a>
                 </div>
                 <div class="col text-center">
-                    <a href="#">SHOP</a>
+                    <a class="header-link" href="#">SHOP</a>
                 </div>
                 <div class="col text-center">
                     <input class="ms-seacrh" type="search">

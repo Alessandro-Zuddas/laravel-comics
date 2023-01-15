@@ -7,13 +7,15 @@
     font-size: .9375rem;
 }
 
-a{
+.header-link{
     text-decoration: none;
     color: inherit;
 
-    // &--active{
-    //     color: #0282f9;
-    //     border-bottom: .1875rem solid #0282f9;
-    // }
+    &--active{
+        color: #0282f9;
+        text-decoration: none;
+        padding-bottom: 1.875rem;
+        border-bottom: .3125rem solid #0282f9;
+    }
 
 }
