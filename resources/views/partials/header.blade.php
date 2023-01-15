@@ -43,7 +43,7 @@
                     <a class="header-link" href="#">NEWS</a>
                 </div>
                 <div class="col text-center">
-                    <a class="header-link" href="#">SHOP</a>
+                    <a class="header-link" href="/product">SHOP</a>
                 </div>
                 <div class="col text-center">
                     <input class="ms-seacrh" type="search">

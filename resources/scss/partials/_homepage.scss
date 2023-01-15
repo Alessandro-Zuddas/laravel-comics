@@ -12,7 +12,8 @@
 
 .ms-current-series{
     position: absolute;
-    top: -30%;
+    top: -2%;
+    left: 15%;
     color: white;
     background-color: #0282f9;
     padding: .3125rem .625rem;
@@ -25,4 +26,9 @@
 
 .ms-bonus-img{
     width: 25%;
+}
+
+.ms-card-title{
+    color: white;
+    font-size: .75rem;
 }

@@ -20,9 +20,16 @@
             <h5 class="ms-current-series">CURRENT SERIES</h5>
         </div>
 
-        <div class="container">
+        <div class="container py-4">
 
-            {{-- Da implementare --}}
+            <div class="row gx-2 gy-4">
+                @foreach ($comics as $comic)
+                    <div class="col-2">
+                        <img src="{{ $comic["thumb"] }}" alt="">
+                        <strong class="py-2 ms-card-title">{{ $comic["title"] }}</strong>
+                    </div>
+                @endforeach
+            </div>
             
         </div>
 
