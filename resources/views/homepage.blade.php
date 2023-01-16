@@ -30,6 +30,10 @@
                     </div>
                 @endforeach
             </div>
+
+            <div class="text-center">
+                <button class="ms-load-btn">LOAD MORE</button>
+            </div>
             
         </div>
 
