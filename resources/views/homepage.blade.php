@@ -9,7 +9,7 @@
     <section class="ms-hero">
         
         <div class="ms-hero-container">
-           <img class="img-fluid ms-hero-img" src="{{ Vite::asset("resources/img/jumbotron.jpg") }}" alt="Hero Image">
+            <img class="img-fluid ms-hero-img" src="{{ Vite::asset("resources/img/jumbotron.jpg") }}" alt="Hero Image">
         </div>
 
     </section>
