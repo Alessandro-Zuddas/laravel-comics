@@ -19,7 +19,7 @@
                     <a class="header-link" href="#">CHARACTERS</a>
                 </div>
                 <div class="col text-center">
-                    <a class="header-link--active" href="#">COMICS</a>
+                    <a class="header-link--active" href="/homepage">COMICS</a>
                 </div>
                 <div class="col text-center">
                     <a class="header-link" href="#">MOVIES</a>
