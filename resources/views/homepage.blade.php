@@ -31,7 +31,7 @@
                 @endforeach
             </div>
 
-            <div class="text-center">
+            <div class="text-center mt-1">
                 <button class="ms-load-btn">LOAD MORE</button>
             </div>
             
